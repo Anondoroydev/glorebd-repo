@@ -29,7 +29,6 @@ const ProductCard = ({ product }) => {
       </div>
 
 
-      
 
       <div className="p-4">
         <h2 className="text-lg font-semibold">{product.name}</h2>
