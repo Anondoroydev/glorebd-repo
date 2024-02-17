@@ -32,7 +32,6 @@ const ProductCard = ({ product }) => {
         <h2 className="text-lg font-semibold">{product.name}</h2>
         <p className="text-sm text-gray-600 mb-2">{product.description}</p>
 
-        
 
         <div className="flex items-center justify-between mt-auto">
           <button
