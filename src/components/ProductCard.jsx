@@ -33,6 +33,7 @@ const ProductCard = ({ product }) => {
         <p className="text-sm text-gray-600 mb-2">{product.description}</p>
 
 
+        
         <div className="flex items-center justify-between mt-auto">
           <button
             onClick={() => addToCart(product)}
